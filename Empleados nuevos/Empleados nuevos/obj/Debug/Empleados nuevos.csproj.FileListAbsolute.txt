@@ -1,0 +1,7 @@
+C:\Users\lolpo\source\repos\Empleados nuevos\Empleados nuevos\bin\Debug\Empleados nuevos.exe.config
+C:\Users\lolpo\source\repos\Empleados nuevos\Empleados nuevos\bin\Debug\Empleados nuevos.exe
+C:\Users\lolpo\source\repos\Empleados nuevos\Empleados nuevos\bin\Debug\Empleados nuevos.pdb
+C:\Users\lolpo\source\repos\Empleados nuevos\Empleados nuevos\obj\Debug\Empleados nuevos.csprojAssemblyReference.cache
+C:\Users\lolpo\source\repos\Empleados nuevos\Empleados nuevos\obj\Debug\Empleados nuevos.csproj.CoreCompileInputs.cache
+C:\Users\lolpo\source\repos\Empleados nuevos\Empleados nuevos\obj\Debug\Empleados nuevos.exe
+C:\Users\lolpo\source\repos\Empleados nuevos\Empleados nuevos\obj\Debug\Empleados nuevos.pdb
